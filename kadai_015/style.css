@@ -1,32 +1,31 @@
 body{
   font-family: "Arial", "Meiryo", sans-serif; 
-  font-size: 1.25rem; 
+  font-size: 20px; 
   text-align: center;  
 }
 
 .blue{
   color:skyblue;
-  font-family: "Noto Sans JP", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-weight: bold;
+ 
+  
 }
 .pink{
   color:rgb(255, 192, 203);
-  font-family: "Noto Sans JP", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-weight: bold;
+
+  
 }
 #basic p {
   font-weight: bold;  
 }
 
 h1 {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
   font-size: 2.5rem;
-  letter-spacing: 1.2em;
-  text-shadow:1px 1px 2px gray;
+  letter-spacing: 40px;
+  text-shadow:3px 3px 4px gray;
   border-bottom: solid 3px rgb(115, 115, 114);
+  
 }
